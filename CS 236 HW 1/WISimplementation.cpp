@@ -89,6 +89,8 @@ int WIS::FindMaxWeight() {
 			}
 		}
 	}
+
+	
 	int maxWeightIndex = 0;
 	for (int i = 0; i < numIntervals; i++) {
 		//std::cout << "index: " << i << " weight " << weightsArray[i] << "\n";
