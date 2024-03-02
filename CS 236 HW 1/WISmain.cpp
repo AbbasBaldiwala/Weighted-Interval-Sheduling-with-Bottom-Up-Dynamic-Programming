@@ -1,3 +1,6 @@
+//Abbas Baldiwala CS 236
+// Weighted Interval Sheduling with Bottom up dynamic programming
+
 #include <iostream>
 #include <limits>
 

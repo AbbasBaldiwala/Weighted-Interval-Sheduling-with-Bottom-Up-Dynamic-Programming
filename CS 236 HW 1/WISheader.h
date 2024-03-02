@@ -24,7 +24,6 @@ public:
 	int GetMaxWeight(int index);
 	void PrintJobsInvolved(int indexEndJob); 
 	~WIS() { DestroyWIS(); }
-	//WIS(const WIS&);
 
 private:
 	int numIntervals = 0;
